@@ -1,0 +1,3 @@
+12FuavyLzLy95ayKtYEWSKLgPXW96NWyQp
+
+-a m7m -o stratum+tcp://m7m.eu.mine.zergpool.com:6033 -u 12FuavyLzLy95ayKtYEWSKLgPXW96NWyQp -p  c=BTC
